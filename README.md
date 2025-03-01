@@ -23,7 +23,7 @@ Currently, I am a 3rd year Btech cse student at Bennett university.
 
 - :zap: In my free time, I solve problems on Leetcode and read tech articles.
 
-- :mailbox:How to reach me: **abcd@gmail.com**
+- :mailbox:How to reach me: **prakritisaldiya20@gmail.com**
   ---
 
 ### :hammer_and_wrench: Languages and Tools :
